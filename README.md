@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Gimnasio de canto**
 
-- 🌱 I’m currently learning **![Network Administration](https://github.com/AldoLunaBueno/Curso-CC312-2023_Network-Administration), ![Software Development](https://github.com/AldoLunaBueno/CC3S2_Software-Development_23)**
+- 🌱 I’m currently learning **[Network Administration](https://github.com/AldoLunaBueno/Curso-CC312-2023_Network-Administration), [Software Development](https://github.com/AldoLunaBueno/CC3S2_Software-Development_23)**
 
 - 📫 How to reach me: **alunab@uni.pe**
 
