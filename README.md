@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Network Administration, Software Development**
 
-- 📫 How to reach me **alunab@uni.pe**
+- 📫 How to reach me: **alunab@uni.pe**
 
-- ⚡ Fun fact **I can sing handstand 🙃**
+- ⚡ Fun fact: **I can sing handstand 🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
