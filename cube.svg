@@ -4,7 +4,7 @@
       <div class="cube" style="width: 4em; height: 8em;">
         <div style="transform: translate3d(0em, 0em, 2em)">
           <div>
-            <a href='javascript:alert("link was clicked")'>A</a>
+            <a href='https://renenyffenegger.ch/notes/design/graphic/svg/elements/foreignObject/html-embedded-in-html'>A</a>
           </div>
         </div>
         <div style="transform: translate3d(4em, 0em, 2em)"><div>B</div></div>
