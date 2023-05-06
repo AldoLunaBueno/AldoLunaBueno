@@ -1,0 +1,44 @@
+<svg fill="none" height="150" xmlns="http://www.w3.org/2000/svg" style="align: right; display: inline;">
+  <foreignObject width="100%" height="100%" style="align: right; display: inline;">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="cube" style="width: 4em; height: 8em;">
+        <div style="transform: translate3d(0em, 0em, 2em)"><div>A</div></div>
+        <div style="transform: translate3d(4em, 0em, 2em)"><div>B</div></div>
+        <div style="transform: translate3d(0em, 4em, 2em)"><div>C</div></div>
+        <div style="transform: translate3d(4em, 4em, 2em)"><div>D</div></div>
+        <div style="transform: translate3d(0em, 0em, -2em)"><div>E</div></div>
+        <div style="transform: translate3d(4em, 0em, -2em)"><div>F</div></div>
+        <div style="transform: translate3d(0em, 4em, -2em)"><div>G</div></div>
+        <div style="transform: translate3d(4em, 4em, -2em)"><div>H</div></div>
+      </div> 
+
+      <style>
+        div {
+          color: white;
+        }
+        .cube {
+          position: relative;
+          transform-style: preserve-3d;
+          animation: spin 20s linear infinite;
+          margin: 2em;          
+        }        
+        .cube > div {
+          position: absolute;
+          transform-style: preserve-3d;
+        }        
+        @keyframes spin {
+          from { transform: rotateX(-0.1turn) rotateY(0turn); }
+          to { transform: rotateX(-0.1turn) rotateY(1turn); }
+        }
+        .cube > div > div {
+          animation: un-spin 20s linear infinite;
+        }        
+        @keyframes un-spin {
+          from { transform: rotateY(0turn); }
+          to { transform: rotateY(-1turn); }
+        }
+      </style>
+
+    </div>
+  </foreignObject>
+</svg>
