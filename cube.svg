@@ -1,8 +1,12 @@
-<svg fill="none"  viewBox="0 0 200 200" width="250" height="250" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none"  viewBox="0 0 150 150" width="250" height="250" xmlns="http://www.w3.org/2000/svg" style="background-color: #FF0000;">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <div class="cube" style="width: 4em; height: 8em;">
-        <div style="transform: translate3d(0em, 0em, 2em)"><div>A</div></div>
+        <div style="transform: translate3d(0em, 0em, 2em)">
+          <div>
+            <a href='javascript:alert("link was clicked")'>A</a>
+          </div>
+        </div>
         <div style="transform: translate3d(4em, 0em, 2em)"><div>B</div></div>
         <div style="transform: translate3d(0em, 4em, 2em)"><div>C</div></div>
         <div style="transform: translate3d(4em, 4em, 2em)"><div>D</div></div>
@@ -20,7 +24,7 @@
           position: relative;
           transform-style: preserve-3d;
           animation: spin 20s linear infinite;
-          margin: 2em;          
+          margin: 2em;                   
         }        
         .cube > div {
           position: absolute;
