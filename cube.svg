@@ -1,19 +1,15 @@
-<svg fill="none"  viewBox="0 0 150 150" width="250" height="250" xmlns="http://www.w3.org/2000/svg" style="background-color: #FF0000;">
+<svg fill="none"  viewBox="0 0 150 150" width="250" height="250" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <div class="cube" style="width: 4em; height: 8em;">
-        <div style="transform: translate3d(0em, 0em, 2em)">
-          <div>
-            <a href='https://renenyffenegger.ch/notes/design/graphic/svg/elements/foreignObject/html-embedded-in-html'>A</a>
-          </div>
-        </div>
-        <div style="transform: translate3d(4em, 0em, 2em)"><div>B</div></div>
-        <div style="transform: translate3d(0em, 4em, 2em)"><div>C</div></div>
-        <div style="transform: translate3d(4em, 4em, 2em)"><div>D</div></div>
-        <div style="transform: translate3d(0em, 0em, -2em)"><div>E</div></div>
-        <div style="transform: translate3d(4em, 0em, -2em)"><div>F</div></div>
-        <div style="transform: translate3d(0em, 4em, -2em)"><div>G</div></div>
-        <div style="transform: translate3d(4em, 4em, -2em)"><div>H</div></div>
+        <div style="transform: translate3d(0em, 0em, 2em)"><div>A</div></div>
+        <div style="transform: translate3d(4em, 0em, 2em)"><div>L</div></div>
+        <div style="transform: translate3d(0em, 4em, 2em)"><div>U</div></div>
+        <div style="transform: translate3d(4em, 4em, 2em)"><div>N</div></div>
+        <div style="transform: translate3d(0em, 0em, -2em)"><div>O</div></div>
+        <div style="transform: translate3d(4em, 0em, -2em)"><div>D</div></div>
+        <div style="transform: translate3d(0em, 4em, -2em)"><div>L</div></div>
+        <div style="transform: translate3d(4em, 4em, -2em)"><div>A</div></div>
       </div> 
 
       <style>
@@ -32,14 +28,14 @@
         }        
         @keyframes spin {
           from { transform: rotateX(-0.1turn) rotateY(0turn); }
-          to { transform: rotateX(-0.1turn) rotateY(1turn); }
+          to { transform: rotateX(-0.1turn) rotateY(-1turn); }
         }
         .cube > div > div {
           animation: un-spin 20s linear infinite;
         }        
         @keyframes un-spin {
           from { transform: rotateY(0turn); }
-          to { transform: rotateY(-1turn); }
+          to { transform: rotateY(1turn); }
         }
       </style>
 
