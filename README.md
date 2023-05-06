@@ -1,7 +1,3 @@
-<div style="width: 100%;">
-  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
 <h1 align="center">Hi 👋, I'm Aldo Luna</h1>
 <h3 align="center">A passionate beginner developer from Peru</h3>
 
