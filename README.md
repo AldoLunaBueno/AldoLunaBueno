@@ -10,13 +10,13 @@
   <img align="right" src="cube.svg" alt="Cube">
 </div>
 
-- 🔭 I’m currently working on **Gimnasio de canto**
-
-- 🌱 I’m currently learning **[Network Administration](https://github.com/AldoLunaBueno/Curso-CC312-2023_Network-Administration), [Software Development](https://github.com/AldoLunaBueno/CC3S2_Software-Development_23)**
-
-- 📫 How to reach me: **alunab@uni.pe**
-
-- ⚡ Fun fact: **I can sing handstand 🙃**
+- 👨‍🎓 I am studying Computer Science at [UNI](https://www.uni.edu.pe/).
+- 🔭 I’m currently working on [Gimnasio de canto](https://gimnasio-de-canto.surge.sh/)
+- 🌱 I’m currently learning:
+  -  [Network Administration](https://github.com/AldoLunaBueno/Curso-CC312-2023_Network-Administration)
+  -  [Software Development](https://github.com/AldoLunaBueno/CC3S2_Software-Development_23)
+- 📫 How to reach me: <a href="mailto:alunab@uni.pe">alunab@uni.pe</a>
+- ⚡ Fun fact: I can sing handstand 🙃
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
