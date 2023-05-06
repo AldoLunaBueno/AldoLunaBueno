@@ -3,14 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldolunabueno&label=Profile%20views&color=0e75b6&style=flat" alt="aldolunabueno" /> </p>
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldolunabueno" alt="aldolunabueno" /></a> </p>
-
+-->
 
 <div>
   <img align="right" src="cube.svg" alt="Cube">
 </div>
 
-- 👨‍🎓 I am studying Computer Science at [UNI](https://www.uni.edu.pe/).
+- 👨‍🎓 I am studying Computer Science at [UNI](https://www.uni.edu.pe/)
 - 🔭 I’m currently working on [Gimnasio de canto](https://gimnasio-de-canto.surge.sh/)
 - 🌱 I’m currently learning:
   -  [Network Administration](https://github.com/AldoLunaBueno/Curso-CC312-2023_Network-Administration)
