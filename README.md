@@ -6,10 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldolunabueno" alt="aldolunabueno" /></a> </p>
 
 
-<div align="right" style="width: 100;">
-  <img align="right" src="cube.svg" style="width: 100%;" alt="Cube">
+<div>
+  <img align="right" src="cube.svg" alt="Cube">
 </div>
-</p>
 
 - 🔭 I’m currently working on **Gimnasio de canto**
 

@@ -1,5 +1,5 @@
-<svg fill="none" height="150" xmlns="http://www.w3.org/2000/svg" style="align: right; display: inline;">
-  <foreignObject width="100%" height="100%" style="align: right; display: inline;">
+<svg fill="none"  viewBox="0 0 200 200" width="250" height="250" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <div class="cube" style="width: 4em; height: 8em;">
         <div style="transform: translate3d(0em, 0em, 2em)"><div>A</div></div>
